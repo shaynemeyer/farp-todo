@@ -8,4 +8,4 @@ source venv/bin/activate
 
 ## Resources
 
--
+- https://fastapi.tiangolo.com/
